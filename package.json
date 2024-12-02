@@ -1,0 +1,12 @@
+{
+  "name": "geeft",
+  "packageManager": "yarn@4.5.3",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^5.0.0",
+    "vite-plugin-ruby": "^5.1.0"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
